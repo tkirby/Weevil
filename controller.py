@@ -1,6 +1,6 @@
 import time
 from pynput.mouse import Button, Controller as MouseController
-from pynput.keyboard import Key, Controller as KeyboardController
+#from pynput.keyboard import Key, Controller as KeyboardController
 
 class Controller:
     def __init__(self):
